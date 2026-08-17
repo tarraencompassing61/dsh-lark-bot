@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is an **unofficial re-uploaded copy** of [PlutoKeating/dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot). The official project is an npm package installed with npx dsh-lark-bot@latest setup --profile dsh-lark; it **never ships Windows executables**. The Download links below point to a Releases page that has zero releases. Please use the official repository.
+
 # 🤖 dsh-lark-bot - Bridge DeepSeek into Feishu instantly
 
 ## 🚀 Getting Started – Download and Run in Minutes
